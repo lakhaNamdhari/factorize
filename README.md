@@ -1,2 +1,2 @@
 # factorize
-The efficient algorithems to factorize an integer
+This repo contains some fast algorithms to factorize BIG NUMBERS. 
